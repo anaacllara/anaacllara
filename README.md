@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">I’m Ana Clara!<br><br>I’m a Brazilian tech enthusiast currently pursuing a technical degree in Systems Development and Analysis. I’m passionate about learning and continuously improving my skills through free courses on platforms like Coursera and the Brazilian government’s online school.</p>
+<p align="left">Olá, sou a Ana Clara!<br>Atualmente, estou no curso tecnólogo de Análise e Desenvolvimento de Sistemas. Estou aprendendo e melhorando minhas habilidades através de cursos livres em plataformas como Coursera e na Escola Virtual do Governo. <br><br>I’m Ana Clara!<br>I’m currently pursuing a technical degree in Systems Development and Analysis. I’m learning and continuously improving my skills through free courses on platforms like Coursera and the Brazilian government’s online school.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim / About me</h2>
 
 ###
 
-<p align="left">📚 I'm currently learning databases, software engineer, Python and C language, and Cybersecurity.<br>🎯 Goals: Become a systems developmet and analyst,  and work in cibersecutity. <br>🎨 Fun fact: I like to study philosophy, sociology and art.</p>
+<p align="left">📚 Estou aprendendo banco de dados, engenharia de software, linguagem Python e C, e cyber segurança. <br>🎯 Objetivos: Tornar-me uma analista e desenvolvedora de sistemas, e trabalhar com cyber segurança. <br>🎨Curiosidade: Gosto de aprender sobre filosofia, sociologia e arte. <br><br>📚 I'm currently learning databases, software engineer, Python and C language, and Cybersecurity.<br>🎯 Goals: Become a systems developmet and analyst,  and work in cibersecutity. <br>🎨 Fun fact: I like to learn philosophy, sociology and art.</p>
 
 ###
 
