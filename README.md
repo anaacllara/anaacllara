@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">📚 Estou aprendendo banco de dados, engenharia de software, linguagem Python , C e JavaScript, e cyber segurança.<br>🎯 Objetivos: Tornar-me uma analista e desenvolvedora de sistemas, e trabalhar com cyber segurança.<br>🎨Curiosidade: Gosto de aprender sobre filosofia, sociologia e arte.<br><br>📚 I'm currently learning databases, software engineer, Python, C and JavaScript , and Cybersecurity.<br>🎯 Goals: Become a systems development and analyst, and work in cybersecurity.<br>🎨 Fun fact: I like to learn philosophy, sociology and art.</p>
+<p align="left">📚 Estou aprendendo banco de dados, engenharia de software, linguagem Python , C, POO em Java, e cyber segurança.<br>🎯 Objetivos: Tornar-me uma analista e desenvolvedora de sistemas, e trabalhar com cyber segurança.<br>🎨Curiosidade: Gosto de aprender sobre filosofia, sociologia e arte.<br><br>📚 I'm currently learning databases, software engineer, Python, C , OOP in Java, and Cybersecurity.<br>🎯 Goals: Become a systems development and analyst, and work in cybersecurity.<br>🎨 Fun fact: I like to learn philosophy, sociology and art.</p>
 
 ###
 
-<h2 align="left">I am learning to code with</h2>
+<h2 align="left">I know to code with</h2>
 
 ###
 
@@ -23,7 +23,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
